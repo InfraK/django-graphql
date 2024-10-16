@@ -9,6 +9,8 @@ graphene-django = "*"
 psycopg = "*"
 django-types = "*"
 django-filter = "*"
+pytest = "*"
+pytest-django = "*"
 
 [dev-packages]
 
